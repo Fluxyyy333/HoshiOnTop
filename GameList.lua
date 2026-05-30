@@ -11,5 +11,7 @@
 -- No DB mirror needed: the server only validates keys (/auth + /verify) now.
 
 return {
-    [10004244222] = "", -- Kick a Lucky Block (PlaceId 89469502395769) — TODO: Luraph'd KALB raw URL
+    -- Kick a Lucky Block (PlaceId 89469502395769). URL is fixed; the FILE content
+    -- (kalb.lua) gets overwritten with the Luraph'd KALB output once KALB is final.
+    [10004244222] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/kalb.lua",
 }
