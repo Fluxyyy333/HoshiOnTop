@@ -1,0 +1,1 @@
+-- HoshiOnTop loader placeholder (will be replaced by obfuscated loader)
