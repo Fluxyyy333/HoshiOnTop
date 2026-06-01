@@ -14,4 +14,7 @@ return {
     -- Kick a Lucky Block (PlaceId 89469502395769). URL is fixed; the FILE content
     -- (kalb.lua) gets overwritten with the Luraph'd KALB output once KALB is final.
     [10004244222] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/kalb.lua",
+
+    -- Build A Ring Farm (PlaceId 107646426076756). Infinite Tokens + burst buy shop.
+    [10039338037] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/buildaringfarm.lua",
 }
