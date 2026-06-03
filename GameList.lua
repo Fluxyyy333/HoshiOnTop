@@ -17,4 +17,7 @@ return {
 
     -- Build A Ring Farm (PlaceId 107646426076756). Infinite Tokens + burst buy shop.
     [10039338037] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/buildaringfarm.lua",
+
+    -- Slime RNG (PlaceId 92416421522960). Auto Roll/Rebirth/Craft + full farm suite.
+    [9792947201] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/slimerng.lua",
 }
