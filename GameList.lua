@@ -14,4 +14,5 @@ return {
     [10004244222] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/kalb.lua",
     [10039338037] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/buildaringfarm.lua",
     [9792947201]  = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/slimerng.lua",
+    [7395930870]  = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/selllemon.lua",
 }
