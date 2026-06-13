@@ -17,5 +17,5 @@ return {
     [7395930870]  = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/selllemon.lua",
     [9091133975]  = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/catchandtame.lua",
     [9584852943]  = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/refs/heads/main/Plus1Speed.lua",
-    [10200395747] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/Gag2",
+    [10200395747] = "https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/refs/heads/main/Gag2.lua",
 }
