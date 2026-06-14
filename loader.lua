@@ -1,7 +1,3 @@
--- HoshiHub loader — migrated to hoshihub.site (2026-06-14).
--- This GitHub URL is legacy; it now bridges old snippets to the new domain so
--- returning users don't have to re-copy. Forwards any injected script_key, then
--- hands off to the real loader served from hoshihub.site.
 local function _pick()
     local ok, f = pcall(getfenv); if ok and f then local v = rawget(f, "script_key"); if v then return v end end
     if getgenv then local v = rawget(getgenv(), "script_key"); if v then return v end end
